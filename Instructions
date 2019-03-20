@@ -1,0 +1,25 @@
+Install ApacheTomact
+Create A directory Using
+cd apache-tomcat-8.5.5/webapps/
+mkdir JSPDemo
+cd JSPDemo
+mkdir WEB_INF
+cd WEB-INF
+mkdir lib
+<<Copy mysql-connector.jar file >>
+
+Usage: 
+
+Start Apache Tomcat
+
+cd apache-tomcat-8.5.5/bin/
+sh startup.sh
+
+Run
+
+Open Browser
+
+localhost:8080/JSPDemo
+
+
+
